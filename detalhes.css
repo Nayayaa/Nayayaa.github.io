@@ -1,0 +1,41 @@
+#detalhes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 250px;
+}
+
+h1{
+    font-family: monospace;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.informacoes{
+    text-align: left;
+}
+
+#div-informacoes{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+#voltar{
+    border-radius: 7px;
+}
+
+#div-voltar{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
